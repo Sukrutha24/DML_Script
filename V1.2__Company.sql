@@ -1,0 +1,1 @@
+CREATE TABLE COMP(CID int, CNAME varchar(100));
