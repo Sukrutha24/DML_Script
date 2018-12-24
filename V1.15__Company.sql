@@ -1,0 +1,1 @@
+INSERT INTO COMP VALUES(7,'David');
